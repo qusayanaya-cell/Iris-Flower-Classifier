@@ -7,7 +7,7 @@ sepal width, petal length, and petal width.
 ## Details
 - Algorithm: K-Nearest Neighbors (k=3)
 - Library: scikit-learn
-- Accuracy: 0.93
+- Accuracy: 93.3%
 - The trained model is saved with joblib (mlbrain.joblib)
 
 ## How to run
