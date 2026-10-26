@@ -9,8 +9,6 @@ sepal width, petal length, and petal width.
 - Accuracy: 93.3% on a held-out test set (80/20 split)
 - Trained model saved with joblib (mlbrain.joblib)
 
-![Code and results](screenshot.png)
-
 ## How to run
 1. Install the requirements: pip install scikit-learn joblib
 2. Open Iris_flower.ipynb in Jupyter and run all cells
