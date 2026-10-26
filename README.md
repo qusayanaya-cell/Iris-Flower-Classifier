@@ -14,5 +14,5 @@ sepal width, petal length, and petal width.
 2. Open Iris_flower.ipynb in Jupyter and run all cells
 
 ## Acknowledgment
-Built while following along with the Zero to Mastery Python course.
-I implemented and ran the code myself as part of my learning journey.
+Built while following along with a Python tutorial as part of my
+learning journey. I implemented and ran the code myself.
